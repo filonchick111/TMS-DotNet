@@ -1,3 +1,13 @@
 src/Filon.TSM206/*.vs
 src/Filon.TSM206/Filon.TSM206/bin
 src/Filon.TSM206/Filon.TSM206/obj
+src/HelloWorld/.vs/Filon.TSM206/DesignTimeBuild/.dtbcache
+src/HelloWorld/.vs/Filon.TSM206/v16/.suo
+src/HelloWorld/.vs/Filon.TSM206/v16/Server/sqlite3/db.lock
+src/HelloWorld/.vs/Filon.TSM206/v16/Server/sqlite3/storage.ide
+src/HelloWorld/.vs/HelloWorld/v16/.suo
+src/HelloWorld/HelloWorld.sln 
+src/ReminderDay/ReminderDay.sln
+src/ReminderDay/ReminderDay/ReminderDay.csproj
+src/ReminderDay/ReminderDay/bin/Debug/netcoreapp3.1/ReminderDay.deps.json
+
