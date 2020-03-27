@@ -1,6 +1,11 @@
 src/Filon.TSM206/*.vs
 src/Filon.TSM206/Filon.TSM206/bin
 src/Filon.TSM206/Filon.TSM206/obj
+
+src/HelloWorld/*.vs
+src/HelloWorld/HelloWorld/bin
+src/HelloWorld/HelloWorld/obj
+
 src/ReminderDay/*.vs
 src/ReminderDay/ReminderDay/bin
 src/ReminderDay/ReminderDay/obj
